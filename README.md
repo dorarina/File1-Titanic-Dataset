@@ -1,4 +1,5 @@
 Titanic Dataset Analysis
+
 This project focuses on analyzing the Titanic dataset to uncover patterns and trends related to passenger survival. By leveraging Python's data manipulation and visualization libraries, the analysis provides insights into how factors such as gender, age, and ticket class influenced survival rates during the tragic Titanic disaster.
 
 Overview of the Project
