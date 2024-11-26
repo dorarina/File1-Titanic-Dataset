@@ -19,25 +19,11 @@ file.info() to check for missing values and data types.
 
 Data Visualization:
 
-Bar Chart: Survival by Gender
-Groups passengers by Sex and calculates the total number of survivors.
-Presents the results in a bar chart to compare survival counts for males and females.
-
-Pie Chart: Class Distribution
-Visualizes the proportion of passengers across the 1st, 2nd, and 3rd classes (Pclass).
-Displays percentages for each class.
-
-Histogram: Age Distribution
-Illustrates the age demographics of passengers.
-Uses the square root rule to determine the number of bins for the histogram.
-
-Example Outputs:
 Bar Chart: Shows that females had a significantly higher survival rate compared to males.
 Pie Chart: Indicates the distribution of passengers among the 1st, 2nd, and 3rd classes.
 Histogram: Highlights the age distribution, revealing the presence of both children and adults on the ship.
 
 View the Visualizations:
-
 The script generates visualizations in separate windows, including bar charts, pie charts, and histograms.
 Learning Outcomes
 This project demonstrates:
@@ -45,4 +31,5 @@ This project demonstrates:
 How to preprocess datasets (e.g., handling missing data).
 How to use Python's visualization libraries (matplotlib) to create meaningful charts.
 How to explore and interpret relationships between data attributes.
+
 Feel free to customize this summary further based on your audience or specific project goals! Let me know if you want refinements or additions.
