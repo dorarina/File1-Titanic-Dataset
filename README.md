@@ -20,7 +20,9 @@ file.info() to check for missing values and data types.
 Data Visualization:
 
 Bar Chart: Shows that females had a significantly higher survival rate compared to males.
+
 Pie Chart: Indicates the distribution of passengers among the 1st, 2nd, and 3rd classes.
+
 Histogram: Highlights the age distribution, revealing the presence of both children and adults on the ship.
 
 View the Visualizations:
