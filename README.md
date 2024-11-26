@@ -30,7 +30,6 @@ The script generates visualizations in separate windows, including bar charts, p
 
 Learning Outcomes
 This project demonstrates:
-
 How to preprocess datasets (e.g., handling missing data).
 How to use Python's visualization libraries (matplotlib) to create meaningful charts.
 How to explore and interpret relationships between data attributes.
