@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #import the dataset into variable file
-file = pd.read_csv("C:\\Users\\pqwql\\Documents\\programming\\Titanic-Dataset.csv", index_col=0)
+file = pd.read_csv("data/Titanic-Dataset.csv", index_col=0)
 
 
 #clear the dataset
