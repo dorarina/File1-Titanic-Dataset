@@ -27,6 +27,7 @@ Histogram: Highlights the age distribution, revealing the presence of both child
 
 View the Visualizations:
 The script generates visualizations in separate windows, including bar charts, pie charts, and histograms.
+
 Learning Outcomes
 This project demonstrates:
 
